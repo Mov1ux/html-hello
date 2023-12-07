@@ -1,0 +1,46 @@
+body {
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    
+}
+.head {
+    
+    font-size: larger;
+    background-color: white;
+    display: block;
+    padding-left: 40%;
+}
+.block1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.titulofoto1 {
+    display: inline-block;
+    background-color: white;
+    width: 80%;
+    
+}
+.fecha1 {
+    float: right;
+    background-color: white;
+    width: 20%;
+    color: lightgray;
+    text-align: right;
+    
+}
+.foto1 {
+    display: flex;
+    justify-content: center;    
+}
+.img1 {
+    width: 100%;
+    height: 100%;
+
+}
+.texto1 {
+    background-color: white;
+    padding: 25px;
+    height: 100%;
+    font-size: larger;
+}
